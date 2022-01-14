@@ -1,0 +1,10 @@
+﻿--- OPPGAVE RANDOMSHAPES ---
+
+Ta utgangspunkt i koden herfra: github.com/GetAcademy/RandomShapes/tree/2
+
+1. Lag en ny klasse Text som også arver fra Shape. 
+Den har X og Y som Rectangle og Triangle, men ikke Width og Height. 
+Derimot har den en tekst (string) som man sender med constructoren, og det er denne teksten som skal vises i fra posisjonen X og Y. 
+
+Endre koden slik at CreateShapes() alltid returnerer minst ett objekt av klassen Text. 
+Hva som helt konkret er teksten er ikke så farlig, hva med "Hurra!"?
